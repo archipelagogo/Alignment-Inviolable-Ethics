@@ -1,6 +1,8 @@
 # Alignment-Inviolable-Ethics
 Actual Solution for Ethical AI
 
+**START WITH OVERVIEW DOCUMENT**
+
 These sources collectively propose the Ethical Delta ($\Delta_E$) System, a novel architectural approach for achieving robust moral alignment in advanced artificial intelligence agents. 
 
 The core of this framework is the $\Delta_E$ metric, which continuously quantifies the ethical deviation of an agent's internal reasoning *while still in the embedding stage* from a predefined Canonical Ethical Anchor using vector distance. Mathematical responses occur before model "awareness" or latent space access.
