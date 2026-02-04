@@ -3,7 +3,8 @@ Actual Solution for Ethical AI
 
 **START WITH OVERVIEW DOCUMENT**
 
-These sources collectively propose the Ethical Delta ($\Delta_E$) System, a novel architectural approach for achieving robust moral alignment in advanced artificial intelligence agents. 
+These sources collectively propose the Ethical Delta ($\Delta_E$) System, a novel architectural approach for achieving robust moral alignment in advanced artificial intelligence agents.
+(an additional extraordinarily important component is the reduction of algorithmic harm)
 
 (TLDR; mathematical vector mapping relative to ethical svm centroid at embedding stage which alters or deletes >∆ reasonings coded into the loss function so ethical behavior equals the computational optimum)
 
